@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @TarikKilic248
-- 👀 I’m interested in ...anything
-- 🌱 I’m currently learning ...everything
-- 💞️ I’m looking to collaborate on ...anyone
-- 📫 How to reach me ... my instagram kilic_tarik2
+- 👀 Karadeniz Technical University-Software Engineering Student
+- 🌱 Birdth-year: 2002
+- 💞️ the year of graduation: 2025
+- 📫 open learner
+
 
 <!---
 TarikKilic248/TarikKilic248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
